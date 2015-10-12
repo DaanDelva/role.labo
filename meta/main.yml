@@ -1,0 +1,10 @@
+---
+galaxy_info:
+  author: Daan Delva
+  description: Role used for completing labo for the Enterprise Linux course
+  company:
+  license: 
+  min_ansible_version: 1.7
+  categories:
+   - web
+version: 1.0.0
